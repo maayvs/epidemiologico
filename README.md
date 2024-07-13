@@ -9,7 +9,7 @@
 </p>
 
 <h2>Modelo Proposto</h2>
-<img src="https://tracuateua.pa.gov.br/wp-content/uploads/2022/03/Boletim-Epidemiologico-01-02-2022.jpg" width="400px"/>
+<img src="https://tracuateua.pa.gov.br/wp-content/uploads/2022/03/Boletim-Epidemiologico-01-02-2022.jpg" width="600px"/>
 
 <h2>Aprendizados</h2>
 <ul>
